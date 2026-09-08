@@ -1,9 +1,9 @@
 {
-    "version":  "2.26",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.26/RechenmodellAmpel-Setup-2.26.exe",
-    "sha256":  "96e040e979f1de011bcf86e80341913d1f0d92673bd17598babb382a7d7aebf6",
-    "releaseNotes":  "Behebt den Startfehler im Hinweis nach einer Updateinstallation.",
+    "version":  "2.27",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.27/RechenmodellAmpel-Setup-2.27.exe",
+    "sha256":  "cc6a230d99044307af07c44fc6e57bfda2b6ec1d0acc42c59cb803feb195d03e",
+    "releaseNotes":  "Kompakte Ein-Kasten-Ansicht, senkrechtes Layout und platzsparende Fensteranordnung; PowerShell 7 wird geprüft, bei Bedarf über WinGet installiert und anschließend gestartet.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-08T11:50:54.6791219+00:00",
+    "publishedAtUtc":  "2026-09-08T16:04:10.4003567+00:00",
     "publisherThumbprint":  ""
 }
