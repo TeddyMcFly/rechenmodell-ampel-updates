@@ -1,9 +1,9 @@
 {
-    "version":  "2.27",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.27/RechenmodellAmpel-Setup-2.27.exe",
-    "sha256":  "cc6a230d99044307af07c44fc6e57bfda2b6ec1d0acc42c59cb803feb195d03e",
-    "releaseNotes":  "Kompakte Ein-Kasten-Ansicht, senkrechtes Layout und platzsparende Fensteranordnung; PowerShell 7 wird geprüft, bei Bedarf über WinGet installiert und anschließend gestartet.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-08T16:04:10.4003567+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.30",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.30/RechenmodellAmpel-Setup-2.30.exe",
+  "sha256": "43b7bf4d82ead206831644a9ac3887899961b98871c4c0418a186d2a855a792c",
+  "releaseNotes": "Die Spark-Übernahme verwendet die aktuell von Codex gemeldeten Reasoning-Stufen und bestätigt Modell und Aufwand gemeinsam. Die automatische Fensteranordnung behält die unmittelbar vor dem Klick gemessene PromptChecker-Breite bei.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-08T19:33:09.6726505+00:00",
+  "publisherThumbprint": ""
 }
