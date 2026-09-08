@@ -1,0 +1,9 @@
+﻿{
+    "version":  "2.24",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.24/RechenmodellAmpel-Setup-2.24.exe",
+    "sha256":  "fac0b9056996bee7b2789a99af557b2f1d4cd3dffac76d24c6405b616ac2f6cf",
+    "releaseNotes":  "Kontingentansichten, Release-Schaltflaechen und Bedienung verbessert.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-08T11:26:39.8543483+00:00",
+    "publisherThumbprint":  ""
+}
