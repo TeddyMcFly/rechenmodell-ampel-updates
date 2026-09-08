@@ -1,9 +1,9 @@
 {
-    "version":  "2.25",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.25/RechenmodellAmpel-Setup-2.25.exe",
-    "sha256":  "2411052babb9bc7d6a88c984f05b8b0c6e65d3b89b4ddbe8c0d75013c0488161",
-    "releaseNotes":  "Automatische Updateprüfung und Installationshinweis.",
+    "version":  "2.26",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.26/RechenmodellAmpel-Setup-2.26.exe",
+    "sha256":  "96e040e979f1de011bcf86e80341913d1f0d92673bd17598babb382a7d7aebf6",
+    "releaseNotes":  "Behebt den Startfehler im Hinweis nach einer Updateinstallation.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-08T11:44:09.2025876+00:00",
+    "publishedAtUtc":  "2026-09-08T11:50:54.6791219+00:00",
     "publisherThumbprint":  ""
 }
