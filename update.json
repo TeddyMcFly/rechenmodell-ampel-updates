@@ -1,9 +1,9 @@
 {
-    "version":  "2.42",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.42/RechenmodellAmpel-Setup-2.42.exe",
-    "sha256":  "43f9c84e10457cfb4102c3c9b36b55c2c0672d29cd6d63d80dc1acab77c61449",
-    "releaseNotes":  "server-authoritative weekly quota reset handling and corrected remaining-days recalculation; no local stale reset fallback",
+    "version":  "2.44",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.44/RechenmodellAmpel-Setup-2.44.exe",
+    "sha256":  "fb528443bbd42add52e7079dad017a226f86384f8f07ec47bb43ff08294bd2cc",
+    "releaseNotes":  "Stabilere Übernahme durch längere Wartezeiten beim Öffnen und Auslesen der Codex-Menüs; Luna High und Luna Medium werden für die Logik gleich behandelt.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T18:04:42.8331754+00:00",
+    "publishedAtUtc":  "2026-09-09T20:25:03.8071875+00:00",
     "publisherThumbprint":  ""
 }
