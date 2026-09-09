@@ -1,9 +1,9 @@
 {
-  "version": "2.30",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.30/RechenmodellAmpel-Setup-2.30.exe",
-  "sha256": "43b7bf4d82ead206831644a9ac3887899961b98871c4c0418a186d2a855a792c",
-  "releaseNotes": "Die Spark-Übernahme verwendet die aktuell von Codex gemeldeten Reasoning-Stufen und bestätigt Modell und Aufwand gemeinsam. Die automatische Fensteranordnung behält die unmittelbar vor dem Klick gemessene PromptChecker-Breite bei.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-08T19:33:09.6726505+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.31",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.31/RechenmodellAmpel-Setup-2.31.exe",
+    "sha256":  "3dc995005ff27210af4c94e963093dda7af8d83db2052c65067749c40a3dc65f",
+    "releaseNotes":  "Die Modellübernahme wartet auf eine stabil erkannte Codex-Oberfläche und ermittelt ersetzte Bedienelemente neu. Diagnosemeldungen nennen die betroffene Phase und die zuletzt erkannte Auswahl.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-09T05:42:28.6705828+00:00",
+    "publisherThumbprint":  ""
 }
