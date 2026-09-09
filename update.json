@@ -1,9 +1,9 @@
 {
-    "version":  "2.35",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.35/RechenmodellAmpel-Setup-2.35.exe",
-    "sha256":  "4568dd970d56be68e16f57f513e9047e6d044942a415b1501ebbb7e9a9f92677",
-    "releaseNotes":  "Tagesdetails zeigen die täglich verbrauchte Tokenmenge. Kontingent Tagesende zeigt je Tag den zuletzt gemessenen verbleibenden Standard-Kontingentanteil.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T13:54:59.8412528+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.36",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.36/RechenmodellAmpel-Setup-2.36.exe",
+  "sha256": "8786b6110920025debc8fe1e46a3299a3afcae2cf179b0d466a282cac020efc7",
+  "releaseNotes": "Gerätenutzung mit den Zeiträumen Laufende Woche, Monat und Total.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-09T15:24:56.3961414+00:00",
+  "publisherThumbprint": ""
 }
