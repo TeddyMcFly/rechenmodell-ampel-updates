@@ -1,9 +1,9 @@
 {
     "version":  "2.32",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.32/RechenmodellAmpel-Setup-2.32.exe",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.32/RechenmodellAmpel-Setup-2.32.exe",
     "sha256":  "379687129bb61541506a983171f547b738448e5d72ea41b62aa3c0bf4cf87dfa",
     "releaseNotes":  "Der auf einen Kasten reduzierte PromptChecker erhält einen eigenen Ziehgriff und lässt sich damit wieder verschieben.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T06:29:37.3314781+00:00",
+    "publishedAtUtc":  "2026-09-09T07:07:17.6907914+00:00",
     "publisherThumbprint":  ""
 }
