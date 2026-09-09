@@ -1,9 +1,9 @@
 {
-  "version": "2.33",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.33/RechenmodellAmpel-Setup-2.33.exe",
-  "sha256": "44f13c92debd678ed030b1a632bffa2a06f8c232d241dfafabf878e1bc772e40",
-  "releaseNotes": "Die Codex-Übernahme behält nach dem Öffnen des Modell- oder Aufwandmenüs den bereits bestätigten Menüanker bei.",
+  "version": "2.34",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.34/RechenmodellAmpel-Setup-2.34.exe",
+  "sha256": "533d26aa17ed2070097e216a11bc1e06c7e8f05e883e9b02c9888bc9181c74c4",
+  "releaseNotes": "Das neue PromptChecker-Icon erscheint in der Anwendung, an der Verknüpfung und im Setup.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-09T07:29:22.2755702+00:00",
+  "publishedAtUtc": "2026-09-09T08:03:04.7847742+00:00",
   "publisherThumbprint": ""
 }
