@@ -1,9 +1,9 @@
 {
-    "version":  "2.31",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.31/RechenmodellAmpel-Setup-2.31.exe",
-    "sha256":  "3dc995005ff27210af4c94e963093dda7af8d83db2052c65067749c40a3dc65f",
-    "releaseNotes":  "Die Modellübernahme wartet auf eine stabil erkannte Codex-Oberfläche und ermittelt ersetzte Bedienelemente neu. Diagnosemeldungen nennen die betroffene Phase und die zuletzt erkannte Auswahl.",
+    "version":  "2.32",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.32/RechenmodellAmpel-Setup-2.32.exe",
+    "sha256":  "379687129bb61541506a983171f547b738448e5d72ea41b62aa3c0bf4cf87dfa",
+    "releaseNotes":  "Der auf einen Kasten reduzierte PromptChecker erhält einen eigenen Ziehgriff und lässt sich damit wieder verschieben.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T05:42:28.6705828+00:00",
+    "publishedAtUtc":  "2026-09-09T06:29:37.3314781+00:00",
     "publisherThumbprint":  ""
 }
