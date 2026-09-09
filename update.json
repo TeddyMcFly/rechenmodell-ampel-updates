@@ -1,9 +1,9 @@
 {
-  "version": "2.36",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.36/RechenmodellAmpel-Setup-2.36.exe",
-  "sha256": "8786b6110920025debc8fe1e46a3299a3afcae2cf179b0d466a282cac020efc7",
-  "releaseNotes": "Gerätenutzung mit den Zeiträumen Laufende Woche, Monat und Total.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-09T15:27:12.8973570+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.37",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.37/RechenmodellAmpel-Setup-2.37.exe",
+    "sha256":  "1f266af785ab1deb2c9264e6c0499bab93e1c3aca2e61eff2e55224742989f75",
+    "releaseNotes":  "Korrektur der Codex-Modellübernahme: Der bestätigte Modell-Picker bleibt aktiv; Ausführen-in-Menüs werden ausgeschlossen.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-09T16:11:22.2165178+00:00",
+    "publisherThumbprint":  ""
 }
