@@ -1,9 +1,9 @@
 {
-  "version": "2.40",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.40/RechenmodellAmpel-Setup-2.40.exe",
-  "sha256": "53378f9e3cce3f618fbb0f13fc9537374e59aac24d967c1d7c62119fcc842743",
-  "releaseNotes": "Stellt die drei Codex-Hauptaktionen wieder her und entfernt den nicht mehr benötigten Info-Bereich zur Modell-Aufwand-Kombination.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-09T17:12:51.2363563+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.41",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.41/RechenmodellAmpel-Setup-2.41.exe",
+    "sha256":  "27ead5660fb1def353fb925cce25c4cd86de89cf16a99d7ed88127acebd773d8",
+    "releaseNotes":  "Aufgeräumtes Einstellungen-Menü, klare Codex-Ausführungsoptionen und korrigierte Anzeige nach serverseitiger Kontingent-Neuberechnung.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-09T17:36:35.7958596+00:00",
+    "publisherThumbprint":  ""
 }
