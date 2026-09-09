@@ -1,9 +1,9 @@
 {
-    "version":  "2.41",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.41/RechenmodellAmpel-Setup-2.41.exe",
-    "sha256":  "27ead5660fb1def353fb925cce25c4cd86de89cf16a99d7ed88127acebd773d8",
-    "releaseNotes":  "Aufgeräumtes Einstellungen-Menü, klare Codex-Ausführungsoptionen und korrigierte Anzeige nach serverseitiger Kontingent-Neuberechnung.",
+    "version":  "2.42",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.42/RechenmodellAmpel-Setup-2.42.exe",
+    "sha256":  "43f9c84e10457cfb4102c3c9b36b55c2c0672d29cd6d63d80dc1acab77c61449",
+    "releaseNotes":  "server-authoritative weekly quota reset handling and corrected remaining-days recalculation; no local stale reset fallback",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T17:36:35.7958596+00:00",
+    "publishedAtUtc":  "2026-09-09T18:04:42.8331754+00:00",
     "publisherThumbprint":  ""
 }
