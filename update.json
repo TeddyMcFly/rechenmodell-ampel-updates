@@ -1,9 +1,9 @@
 {
-  "version": "2.34",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.34/RechenmodellAmpel-Setup-2.34.exe",
-  "sha256": "533d26aa17ed2070097e216a11bc1e06c7e8f05e883e9b02c9888bc9181c74c4",
-  "releaseNotes": "Das neue PromptChecker-Icon erscheint in der Anwendung, an der Verknüpfung und im Setup.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-09T08:03:04.7847742+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.35",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.35/RechenmodellAmpel-Setup-2.35.exe",
+    "sha256":  "4568dd970d56be68e16f57f513e9047e6d044942a415b1501ebbb7e9a9f92677",
+    "releaseNotes":  "Tagesdetails zeigen die täglich verbrauchte Tokenmenge. Kontingent Tagesende zeigt je Tag den zuletzt gemessenen verbleibenden Standard-Kontingentanteil.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-09T13:54:59.8412528+00:00",
+    "publisherThumbprint":  ""
 }
