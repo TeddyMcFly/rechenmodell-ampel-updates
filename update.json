@@ -1,9 +1,9 @@
 {
-    "version":  "2.39",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.39/RechenmodellAmpel-Setup-2.39.exe",
-    "sha256":  "50f1138875c9eb0d6af0470a82a949f4cb929069557465d9ed66dd5e71079956",
-    "releaseNotes":  "- Manuelle Analyse vollständig entfernt\n- Details-Funktion im Hamburger-Menü entfernt\n- Modellauswahl-Aktionen vereinheitlicht (nur Auswahl / Auswahl + Prompt senden)\n- Suche nach Updates in Einstellungen verschoben; Kontextinfo als Popup",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T16:55:15.3419531+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.40",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.40/RechenmodellAmpel-Setup-2.40.exe",
+  "sha256": "53378f9e3cce3f618fbb0f13fc9537374e59aac24d967c1d7c62119fcc842743",
+  "releaseNotes": "Stellt die drei Codex-Hauptaktionen wieder her und entfernt den nicht mehr benötigten Info-Bereich zur Modell-Aufwand-Kombination.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-09T17:12:51.2363563+00:00",
+  "publisherThumbprint": ""
 }
