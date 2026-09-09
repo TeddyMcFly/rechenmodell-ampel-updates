@@ -1,9 +1,9 @@
 {
-    "version":  "2.38",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.38/RechenmodellAmpel-Setup-2.38.exe",
-    "sha256":  "d1f5c5f089e8479ddc3cd8a6f36e5150c03dbb85e413d40cf6c6e2af90ed4491",
-    "releaseNotes":  "Der Zeitraumfilter unter Geräte bietet zusätzlich Heutiger Tag.",
+    "version":  "2.39",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.39/RechenmodellAmpel-Setup-2.39.exe",
+    "sha256":  "50f1138875c9eb0d6af0470a82a949f4cb929069557465d9ed66dd5e71079956",
+    "releaseNotes":  "- Manuelle Analyse vollständig entfernt\n- Details-Funktion im Hamburger-Menü entfernt\n- Modellauswahl-Aktionen vereinheitlicht (nur Auswahl / Auswahl + Prompt senden)\n- Suche nach Updates in Einstellungen verschoben; Kontextinfo als Popup",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T16:19:55.6986285+00:00",
+    "publishedAtUtc":  "2026-09-09T16:55:15.3419531+00:00",
     "publisherThumbprint":  ""
 }
