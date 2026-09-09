@@ -1,9 +1,9 @@
 {
-    "version":  "2.37",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.37/RechenmodellAmpel-Setup-2.37.exe",
-    "sha256":  "1f266af785ab1deb2c9264e6c0499bab93e1c3aca2e61eff2e55224742989f75",
-    "releaseNotes":  "Korrektur der Codex-Modellübernahme: Der bestätigte Modell-Picker bleibt aktiv; Ausführen-in-Menüs werden ausgeschlossen.",
+    "version":  "2.38",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.38/RechenmodellAmpel-Setup-2.38.exe",
+    "sha256":  "d1f5c5f089e8479ddc3cd8a6f36e5150c03dbb85e413d40cf6c6e2af90ed4491",
+    "releaseNotes":  "Der Zeitraumfilter unter Geräte bietet zusätzlich Heutiger Tag.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T16:11:22.2165178+00:00",
+    "publishedAtUtc":  "2026-09-09T16:19:55.6986285+00:00",
     "publisherThumbprint":  ""
 }
