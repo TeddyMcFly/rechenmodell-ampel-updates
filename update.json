@@ -1,9 +1,9 @@
 {
     "version":  "2.56",
     "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.56/RechenmodellAmpel-Setup-2.56.exe",
-    "sha256":  "3b3c26ce22f63ee3c67bc60da411bd5bfc24db850ce379245d0897e36d0ae306",
-    "releaseNotes":  "Ausdrücklich gewählter Zielchat für die Modellübernahme; Modell und Denkstufe werden über den App Server gesetzt; Zielchat bleibt sichtbar; Übergabefunktion bleibt getrennt.",
+    "sha256":  "b0a97343390388abf57ab1dc49148f3c7703ac676c8170643aa9f9aded998ae1",
+    "releaseNotes":  "Zielchat-Pairing, deutlichere Zielchat-Auswahl und optionales automatisches Senden nach Modellübernahme.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T21:13:59.1584121+00:00",
+    "publishedAtUtc":  "2026-09-10T21:50:13.0579583+00:00",
     "publisherThumbprint":  ""
 }
