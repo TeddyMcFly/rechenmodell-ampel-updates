@@ -1,9 +1,9 @@
 {
     "version":  "2.55",
     "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.55/RechenmodellAmpel-Setup-2.55.exe",
-    "sha256":  "d2bdd1797a3d5305658bf66fed1e45e32c60bd9d6e120b0373484c23bad41c1e",
+    "sha256":  "1f300588e01771ce7615451be59efe0f11875e98583d44e890738df73e824bd6",
     "releaseNotes":  "Die Chatliste legt den eindeutigen Ausgangschat für die Übergabe fest. Die Übergabe erstellt daraus einen frischen Codex-Chat mit kurzem Übergabeprotokoll.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T20:16:36.7909014+00:00",
+    "publishedAtUtc":  "2026-09-10T20:22:02.6989121+00:00",
     "publisherThumbprint":  ""
 }
