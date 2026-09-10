@@ -1,9 +1,9 @@
 {
-    "version":  "2.48",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.48/RechenmodellAmpel-Setup-2.48.exe",
-    "sha256":  "2e7042da5463e7b6ea1487302fb79e76814264dc95f1389c683ce9fc22e6c6f6",
-    "releaseNotes":  "Thread-Kontext mit Auslastung, Turns und Komprimierungen sichtbar; neuer Codex-Chat mit schreibgeschütztem Übergabeprotokoll.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T12:19:29.9345739+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.49",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.49/RechenmodellAmpel-Setup-2.49.exe",
+  "sha256": "39712553df5f480f87a74856409b7417d933a70518a04dd2d36f9b6189444205",
+  "releaseNotes": "Vorschlagsklick verwendet sichtbare Codex-Modellwahl und sendet danach den Prompt; automatischer App-Server-Start entfernt; kleinere zentrale Tacho-Prozentwerte.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-10T13:41:54.9625473+00:00",
+  "publisherThumbprint": ""
 }
