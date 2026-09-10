@@ -1,9 +1,9 @@
 {
-    "version":  "2.47",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.47/RechenmodellAmpel-Setup-2.47.exe",
-    "sha256":  "72cbaff848c78cc374e14df1a8a8e52f0f17909a4ac822eee49cd7d966a2038e",
-    "releaseNotes":  "Spark-Tacho mit App-Server-Fensterdauer; neuer Tages- und Folgetage-Tacho für höhere Modelle; stabiler Tagesplan über Programmneustarts.",
+    "version":  "2.48",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.48/RechenmodellAmpel-Setup-2.48.exe",
+    "sha256":  "2e7042da5463e7b6ea1487302fb79e76814264dc95f1389c683ce9fc22e6c6f6",
+    "releaseNotes":  "Thread-Kontext mit Auslastung, Turns und Komprimierungen sichtbar; neuer Codex-Chat mit schreibgeschütztem Übergabeprotokoll.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T10:43:38.2413702+00:00",
+    "publishedAtUtc":  "2026-09-10T12:19:29.9345739+00:00",
     "publisherThumbprint":  ""
 }
