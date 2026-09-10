@@ -1,6 +1,6 @@
 {
     "version":  "2.46",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.46/RechenmodellAmpel-Setup-2.46.exe",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.46/RechenmodellAmpel-Setup-2.46.exe",
     "sha256":  "ae3dd418d8f3506a1a0586ae88ab24e2d16addc2874367309f77477b54f71c6a",
     "releaseNotes":  "Quota visualization and App-Server quota workflow updates for higher-model and Spark quotas; App-Server recommended-thread flow and reasoning-effort handling.",
     "mandatory":  false,
