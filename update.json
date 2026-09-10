@@ -1,9 +1,9 @@
 {
-    "version":  "2.45",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.45/RechenmodellAmpel-Setup-2.45.exe",
-    "sha256":  "90ee35bf9c5ef7dafd40da1e1c1e175deecb4bd91f7ee5ce392f84300c44561f",
-    "releaseNotes":  "Neuer Diagnose-Schritt „Modellmenü prüfen“: öffnet nur das Codex-Modellmenü, liest sichtbare Einträge aus und zeigt sie im Popup an, ohne ein Modell auszuwählen.",
+    "version":  "2.46",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.46/RechenmodellAmpel-Setup-2.46.exe",
+    "sha256":  "ae3dd418d8f3506a1a0586ae88ab24e2d16addc2874367309f77477b54f71c6a",
+    "releaseNotes":  "Quota visualization and App-Server quota workflow updates for higher-model and Spark quotas; App-Server recommended-thread flow and reasoning-effort handling.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-09T20:47:13.9597594+00:00",
+    "publishedAtUtc":  "2026-09-10T07:52:33Z",
     "publisherThumbprint":  ""
 }
