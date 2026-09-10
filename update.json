@@ -1,9 +1,9 @@
 {
-  "version": "2.52",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.52/RechenmodellAmpel-Setup-2.52.exe",
-  "sha256": "2e0a99542b75f98b5fa196a4ca16cce6688e7e69403d1795ce55ba852bfc0895",
-  "releaseNotes": "Die sichtbaren Kernaktionen steuern wieder den sichtbaren Codex-Chat: Modell und Rechenstufe werden dort übernommen, der vorhandene Prompt wird über die sichtbare Senden-Schaltfläche gesendet. Zusätzlich zeigt ein Info-Popup den tatsächlichen Kontextstatus des sichtbaren Chats.",
+  "version": "2.53",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.53/RechenmodellAmpel-Setup-2.53.exe",
+  "sha256": "dfb3c1dcfdcba1b9c77bc1cf885d31d474142a00ca621a5c863a7c375ff69b0e",
+  "releaseNotes": "Die Übergabe-Schaltfläche heißt jetzt „Neuer Chat & Übergabe“. Die drei zusätzlichen Kontingent- und Reset-Zeilen im linken Kasten wurden entfernt. Außerdem sind die vorhandenen Änderungen an Modellwechsel, Einstellungen und Info-Hinweisen enthalten.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-10T16:53:06.7318840+00:00",
+  "publishedAtUtc": "2026-09-10T17:44:57.9536656+00:00",
   "publisherThumbprint": ""
 }
