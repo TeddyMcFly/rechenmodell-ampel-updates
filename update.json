@@ -1,9 +1,9 @@
 {
-    "version":  "2.51",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.51/RechenmodellAmpel-Setup-2.51.exe",
-    "sha256":  "9161cc2b839c5b5d0fdfc81e777f83ab88cf20f5a60a9f22f6f47170f685b07b",
-    "releaseNotes":  "Die drei sichtbaren Kernaktionen nutzen wieder direkt den Codex App Server. Modell und Reasoning werden in einem vorbereiteten Thread bestätigt; der Promptversand setzt genau diesen Thread fort. Zusätzlich werden eingefügte Transportdaten getrennt von tatsächlichen Analyseanweisungen bewertet und die drei Empfehlungsprofile unterstützt.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T15:40:55.4995560+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.52",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.52/RechenmodellAmpel-Setup-2.52.exe",
+  "sha256": "2e0a99542b75f98b5fa196a4ca16cce6688e7e69403d1795ce55ba852bfc0895",
+  "releaseNotes": "Die sichtbaren Kernaktionen steuern wieder den sichtbaren Codex-Chat: Modell und Rechenstufe werden dort übernommen, der vorhandene Prompt wird über die sichtbare Senden-Schaltfläche gesendet. Zusätzlich zeigt ein Info-Popup den tatsächlichen Kontextstatus des sichtbaren Chats.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-10T16:53:06.7318840+00:00",
+  "publisherThumbprint": ""
 }
