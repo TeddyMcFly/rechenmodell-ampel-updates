@@ -1,9 +1,9 @@
 {
-  "version": "2.50",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.50/RechenmodellAmpel-Setup-2.50.exe",
-  "sha256": "AFC6CB4AE4C0A5D9243D82BB1CDAA7042B509819B6DA1D3D7FA4D7BC10AEE87D",
-  "releaseNotes": "Hotfix: Die drei getrennten Kernaktionen zum empfohlenen Modell, zur Alternative und zum Promptversand sind wiederhergestellt; die zentralen Tacho-Prozentwerte bleiben kleiner.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-10T14:31:48.4100079+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.51",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.51/RechenmodellAmpel-Setup-2.51.exe",
+    "sha256":  "9161cc2b839c5b5d0fdfc81e777f83ab88cf20f5a60a9f22f6f47170f685b07b",
+    "releaseNotes":  "Die drei sichtbaren Kernaktionen nutzen wieder direkt den Codex App Server. Modell und Reasoning werden in einem vorbereiteten Thread bestätigt; der Promptversand setzt genau diesen Thread fort. Zusätzlich werden eingefügte Transportdaten getrennt von tatsächlichen Analyseanweisungen bewertet und die drei Empfehlungsprofile unterstützt.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-10T15:40:55.4995560+00:00",
+    "publisherThumbprint":  ""
 }
