@@ -1,9 +1,9 @@
 {
-    "version":  "2.56",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.56/RechenmodellAmpel-Setup-2.56.exe",
-    "sha256":  "b0a97343390388abf57ab1dc49148f3c7703ac676c8170643aa9f9aded998ae1",
-    "releaseNotes":  "Zielchat-Pairing, deutlichere Zielchat-Auswahl und optionales automatisches Senden nach Modellübernahme.",
+    "version":  "2.57",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.57/RechenmodellAmpel-Setup-2.57.exe",
+    "sha256":  "b5cd067c24e591cdfbd7875bc870108cf6d88b915ab042c476e0b602172cfa81",
+    "releaseNotes":  "Zuverlässigere Zielchat-Erkennung: PromptChecker erfasst den sichtbaren Codex-Chat, zeigt bei Unsicherheit die Zielchat-Auswahl und hält den gewählten Zielchat sichtbar. Modellübernahme und optionaler automatischer Promptversand bleiben getrennt steuerbar.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T21:50:13.0579583+00:00",
+    "publishedAtUtc":  "2026-09-10T22:20:02.7398909+00:00",
     "publisherThumbprint":  ""
 }
