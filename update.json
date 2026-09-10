@@ -1,9 +1,9 @@
 {
-    "version":  "2.46",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.46/RechenmodellAmpel-Setup-2.46.exe",
-    "sha256":  "ae3dd418d8f3506a1a0586ae88ab24e2d16addc2874367309f77477b54f71c6a",
-    "releaseNotes":  "Quota visualization and App-Server quota workflow updates for higher-model and Spark quotas; App-Server recommended-thread flow and reasoning-effort handling.",
+    "version":  "2.47",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.47/RechenmodellAmpel-Setup-2.47.exe",
+    "sha256":  "72cbaff848c78cc374e14df1a8a8e52f0f17909a4ac822eee49cd7d966a2038e",
+    "releaseNotes":  "Spark-Tacho mit App-Server-Fensterdauer; neuer Tages- und Folgetage-Tacho für höhere Modelle; stabiler Tagesplan über Programmneustarts.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T07:52:33Z",
+    "publishedAtUtc":  "2026-09-10T10:43:38.2413702+00:00",
     "publisherThumbprint":  ""
 }
