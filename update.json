@@ -1,9 +1,9 @@
 {
-  "version": "2.49",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.49/RechenmodellAmpel-Setup-2.49.exe",
-  "sha256": "39712553df5f480f87a74856409b7417d933a70518a04dd2d36f9b6189444205",
-  "releaseNotes": "Vorschlagsklick verwendet sichtbare Codex-Modellwahl und sendet danach den Prompt; automatischer App-Server-Start entfernt; kleinere zentrale Tacho-Prozentwerte.",
+  "version": "2.50",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.50/RechenmodellAmpel-Setup-2.50.exe",
+  "sha256": "AFC6CB4AE4C0A5D9243D82BB1CDAA7042B509819B6DA1D3D7FA4D7BC10AEE87D",
+  "releaseNotes": "Hotfix: Die drei getrennten Kernaktionen zum empfohlenen Modell, zur Alternative und zum Promptversand sind wiederhergestellt; die zentralen Tacho-Prozentwerte bleiben kleiner.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-10T13:41:54.9625473+00:00",
+  "publishedAtUtc": "2026-09-10T14:31:48.4100079+00:00",
   "publisherThumbprint": ""
 }
