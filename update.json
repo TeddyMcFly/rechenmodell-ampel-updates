@@ -1,9 +1,9 @@
 {
-    "version":  "2.54",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.54/RechenmodellAmpel-Setup-2.54.exe",
-    "sha256":  "3395ee2e98a22898b36e157b0a02d1bbc4808d183c8b58327cab71acaf4c981e",
-    "releaseNotes":  "Die beiden Modellbuttons übernehmen Modell und Rechenstufe über den App Server des geöffneten Chats, ohne neuen Chat oder Promptversand. Die Auswahl wird zurückgelesen und bestätigt. Enthalten sind außerdem die vorhandenen Anpassungen an der Einstellungsdarstellung. Die lokale Codex-Verbindung ist versionsabhängig.",
+    "version":  "2.55",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.55/RechenmodellAmpel-Setup-2.55.exe",
+    "sha256":  "d2bdd1797a3d5305658bf66fed1e45e32c60bd9d6e120b0373484c23bad41c1e",
+    "releaseNotes":  "Die Chatliste legt den eindeutigen Ausgangschat für die Übergabe fest. Die Übergabe erstellt daraus einen frischen Codex-Chat mit kurzem Übergabeprotokoll.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T18:55:29.0767079+00:00",
+    "publishedAtUtc":  "2026-09-10T20:16:36.7909014+00:00",
     "publisherThumbprint":  ""
 }
