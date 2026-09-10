@@ -1,9 +1,9 @@
 {
-  "version": "2.53",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.53/RechenmodellAmpel-Setup-2.53.exe",
-  "sha256": "dfb3c1dcfdcba1b9c77bc1cf885d31d474142a00ca621a5c863a7c375ff69b0e",
-  "releaseNotes": "Die Übergabe-Schaltfläche heißt jetzt „Neuer Chat & Übergabe“. Die drei zusätzlichen Kontingent- und Reset-Zeilen im linken Kasten wurden entfernt. Außerdem sind die vorhandenen Änderungen an Modellwechsel, Einstellungen und Info-Hinweisen enthalten.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-10T17:44:57.9536656+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.54",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.54/RechenmodellAmpel-Setup-2.54.exe",
+    "sha256":  "3395ee2e98a22898b36e157b0a02d1bbc4808d183c8b58327cab71acaf4c981e",
+    "releaseNotes":  "Die beiden Modellbuttons übernehmen Modell und Rechenstufe über den App Server des geöffneten Chats, ohne neuen Chat oder Promptversand. Die Auswahl wird zurückgelesen und bestätigt. Enthalten sind außerdem die vorhandenen Anpassungen an der Einstellungsdarstellung. Die lokale Codex-Verbindung ist versionsabhängig.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-10T18:55:29.0767079+00:00",
+    "publisherThumbprint":  ""
 }
