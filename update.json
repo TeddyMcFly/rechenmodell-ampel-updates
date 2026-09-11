@@ -1,9 +1,9 @@
 {
-    "version":  "2.60",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.60/RechenmodellAmpel-Setup-2.60.exe",
-    "sha256":  "8ece9ac44a478566baf2b20314b8169db93e726800cf55761399754ad2398f44",
-    "releaseNotes":  "PromptChecker erkennt stabile Chatwechsel zusätzlich über die ausgewählte Codex-Seite. Ist der neue Chat nicht eindeutig einer Thread-ID zuzuordnen, erscheint Chat nicht erkannt und beim nächsten Fokus auf PromptChecker öffnet sich die Zielchat-Auswahl. Die Modellübernahme bleibt dann gesperrt, Prompt senden bleibt nutzbar.",
+    "version":  "2.61",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.61/RechenmodellAmpel-Setup-2.61.exe",
+    "sha256":  "ea9bce789ca0a08087aa2620dba27bd1bbc7f8cf03fa627911431b2f3014a694",
+    "releaseNotes":  "Ein erkanntes Codex-Wechselsignal startet jetzt sofort die vollständige Zielchat-Erkennung neu. PromptChecker prüft Fenstertitel, direkte Thread-ID und Seitenkennung in bis zu fünf Versuchen und lässt die App-Server-Zuordnung erneut laufen. Erst danach erscheint bei fehlender eindeutiger Zuordnung Chat nicht erkannt mit der Zielchat-Auswahl.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-11T09:26:49.0836772+00:00",
+    "publishedAtUtc":  "2026-09-11T10:23:15.7581975+00:00",
     "publisherThumbprint":  ""
 }
