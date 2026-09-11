@@ -1,9 +1,9 @@
 {
-    "version":  "2.57",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.57/RechenmodellAmpel-Setup-2.57.exe",
-    "sha256":  "b5cd067c24e591cdfbd7875bc870108cf6d88b915ab042c476e0b602172cfa81",
-    "releaseNotes":  "Zuverlässigere Zielchat-Erkennung: PromptChecker erfasst den sichtbaren Codex-Chat, zeigt bei Unsicherheit die Zielchat-Auswahl und hält den gewählten Zielchat sichtbar. Modellübernahme und optionaler automatischer Promptversand bleiben getrennt steuerbar.",
+    "version":  "2.58",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.58/RechenmodellAmpel-Setup-2.58.exe",
+    "sha256":  "787a6ca6377989ddfeeda183cb35cb5923abe10f4bf0710717c94f62516be465",
+    "releaseNotes":  "Prompt senden heißt jetzt einheitlich Prompt senden. Der erkannte Zielchat steht direkt unter den drei Aktionen und wird bei Unsicherheit rot als Zielchat? angezeigt. Auto ist jetzt ein Schiebeschalter.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-10T22:20:02.7398909+00:00",
+    "publishedAtUtc":  "2026-09-11T07:31:30.5796606+00:00",
     "publisherThumbprint":  ""
 }
