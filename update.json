@@ -1,9 +1,9 @@
 {
-    "version":  "2.59",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.59/RechenmodellAmpel-Setup-2.59.exe",
-    "sha256":  "ef80193ec4c38245f2bd7f9b6dec04f3ab33781d05aff1a7614d51a07d6943d8",
-    "releaseNotes":  "Die Zielchat-Anzeige im rechten Kasten beginnt jetzt mit Chat: und wird größer dargestellt. Eindeutig über den App Server bestätigte Fenstertitel können den aktiven Codex-Chat automatisch als Zielchat übernehmen.",
+    "version":  "2.60",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.60/RechenmodellAmpel-Setup-2.60.exe",
+    "sha256":  "8ece9ac44a478566baf2b20314b8169db93e726800cf55761399754ad2398f44",
+    "releaseNotes":  "PromptChecker erkennt stabile Chatwechsel zusätzlich über die ausgewählte Codex-Seite. Ist der neue Chat nicht eindeutig einer Thread-ID zuzuordnen, erscheint Chat nicht erkannt und beim nächsten Fokus auf PromptChecker öffnet sich die Zielchat-Auswahl. Die Modellübernahme bleibt dann gesperrt, Prompt senden bleibt nutzbar.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-11T07:59:25.7944497+00:00",
+    "publishedAtUtc":  "2026-09-11T09:26:49.0836772+00:00",
     "publisherThumbprint":  ""
 }
