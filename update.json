@@ -1,9 +1,9 @@
 {
-    "version":  "2.61",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.61/RechenmodellAmpel-Setup-2.61.exe",
-    "sha256":  "ea9bce789ca0a08087aa2620dba27bd1bbc7f8cf03fa627911431b2f3014a694",
-    "releaseNotes":  "Ein erkanntes Codex-Wechselsignal startet jetzt sofort die vollständige Zielchat-Erkennung neu. PromptChecker prüft Fenstertitel, direkte Thread-ID und Seitenkennung in bis zu fünf Versuchen und lässt die App-Server-Zuordnung erneut laufen. Erst danach erscheint bei fehlender eindeutiger Zuordnung Chat nicht erkannt mit der Zielchat-Auswahl.",
+    "version":  "2.62",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.62/RechenmodellAmpel-Setup-2.62.exe",
+    "sha256":  "804ba1bc63ed7533c6b6a8e75a74ba263c769754f8852cde13a1bdae478eaf4d",
+    "releaseNotes":  "Die Übergabe an einen neuen Codex-Chat läuft ohne zusätzlichen Modellauftrag. Nach einem erkannten Codex-Chatwechsel wird die vollständige Zielchat-Erkennung kontrolliert neu gestartet. Der PromptChecker-App-Server wird nach der Übergabe zuverlässig freigegeben. Die Release-GUI enthält keinen sichtbaren Entwicklungs-Kasten.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-11T10:23:15.7581975+00:00",
+    "publishedAtUtc":  "2026-09-13T19:23:43.1071787+00:00",
     "publisherThumbprint":  ""
 }
