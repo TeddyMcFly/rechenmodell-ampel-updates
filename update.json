@@ -1,9 +1,9 @@
 {
-    "version":  "2.62",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.62/RechenmodellAmpel-Setup-2.62.exe",
-    "sha256":  "804ba1bc63ed7533c6b6a8e75a74ba263c769754f8852cde13a1bdae478eaf4d",
-    "releaseNotes":  "Die Übergabe an einen neuen Codex-Chat läuft ohne zusätzlichen Modellauftrag. Nach einem erkannten Codex-Chatwechsel wird die vollständige Zielchat-Erkennung kontrolliert neu gestartet. Der PromptChecker-App-Server wird nach der Übergabe zuverlässig freigegeben. Die Release-GUI enthält keinen sichtbaren Entwicklungs-Kasten.",
+    "version":  "2.63",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.63/RechenmodellAmpel-Setup-2.63.exe",
+    "sha256":  "b3f5e8aeb7abdf190cef8ef24e7350858c649f9e5d57535c55eb0e5b12109bb5",
+    "releaseNotes":  "Der schwebende Modellhinweis neben dem Codex-Promptfeld ist wieder aktiv und kann in den Einstellungen ein- oder ausgeschaltet werden. Die Auswahl bleibt gespeichert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-13T19:23:43.1071787+00:00",
+    "publishedAtUtc":  "2026-09-14T14:58:34.4841207+00:00",
     "publisherThumbprint":  ""
 }
