@@ -1,9 +1,9 @@
 {
-    "version":  "2.64",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.64/RechenmodellAmpel-Setup-2.64.exe",
-    "sha256":  "dafc52b3bfeba13fb431e2e062dbd1fdbbcf30859ebe429fae19b7bf421c2118",
-    "releaseNotes":  "Das schwebende Popup hat in den Einstellungen eine klar beschriftete eigene Zeile. Die Auswahlliste fuer eigene Aufgabenbuttons zeigt kurze konfigurierte Beschriftungen statt interner Programmnamen.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-14T15:18:34.3918985+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.65",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.65/RechenmodellAmpel-Setup-2.65.exe",
+  "sha256": "0acf102b7cf9030fc4b279fd01156108064752967338d6a9f693060161112dfd",
+  "releaseNotes": "Dauerhafte schwebende PromptChecker-Empfehlung neben dem Codex-Senden-Pfeil.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-14T16:05:44.5961665+00:00",
+  "publisherThumbprint": ""
 }
