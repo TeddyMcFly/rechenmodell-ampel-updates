@@ -1,9 +1,9 @@
 {
-  "version": "2.69",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.69/RechenmodellAmpel-Setup-2.69.exe",
-  "sha256": "f8db395ae3cb3f235c4f0c90f3a8477b484f4d6bde3cd10fd671add26f4d6f87",
-  "releaseNotes": "Frische, noch nicht abgesendete Codex-Chats werden anhand der Startgrafik erkannt.",
+  "version": "2.70",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.70/RechenmodellAmpel-Setup-2.70.exe",
+  "sha256": "ff5ceb37b55c10b10e6d8562b43441b15363ebdea2d87975255a2ba6e0b612ea",
+  "releaseNotes": "Chat-Zustandsbalken mit verständlichen Warnstufen und Detailanzeige; ein Chatwechsel bleibt eine bewusste Entscheidung.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-15T16:10:46.5770511+00:00",
+  "publishedAtUtc": "2026-09-15T16:29:20.9624722+00:00",
   "publisherThumbprint": ""
 }
