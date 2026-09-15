@@ -1,9 +1,9 @@
 {
-  "version": "2.67",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.67/RechenmodellAmpel-Setup-2.67.exe",
-  "sha256": "e9f7b89ebac97126b3b3533fb2df8d07cc5c494e7d60e470d74445ea544374ff",
-  "releaseNotes": "Erlaubt die Modellübernahme auch bei großen Chats mit umfangreichem App-Server-Snapshot.",
+  "version": "2.68",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.68/RechenmodellAmpel-Setup-2.68.exe",
+  "sha256": "be2c052a2612d0021ab3827af277642414eb7932215a685e55e9dd3da6f9ce2a",
+  "releaseNotes": "Neue unbenannte Codex-Chats werden für die Modellübernahme getrennt erkannt.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-15T13:20:56.1448770+00:00",
+  "publishedAtUtc": "2026-09-15T14:40:11.1952535+00:00",
   "publisherThumbprint": ""
 }
