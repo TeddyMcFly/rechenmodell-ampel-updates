@@ -1,9 +1,9 @@
 {
-  "version": "2.70",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.70/RechenmodellAmpel-Setup-2.70.exe",
-  "sha256": "ff5ceb37b55c10b10e6d8562b43441b15363ebdea2d87975255a2ba6e0b612ea",
-  "releaseNotes": "Chat-Zustandsbalken mit verständlichen Warnstufen und Detailanzeige; ein Chatwechsel bleibt eine bewusste Entscheidung.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-15T16:29:20.9624722+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.71",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.71/RechenmodellAmpel-Setup-2.71.exe",
+    "sha256":  "ce0a9c23d4d8e0c04a15dab49fb87496f744270b8466576aba2246aac0a1f309",
+    "releaseNotes":  "Getrennte Startgrafik-Erkennung für neue Chats ohne Chat-ID. Bewährte Erkennung und schnelle Modellumschaltung auf Basis 2.67 bleiben unverändert. Keine Übernahme auf eine alte Chat-ID im erkannten neuen Zustand.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-15T20:05:43.8567954+00:00",
+    "publisherThumbprint":  ""
 }
