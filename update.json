@@ -1,9 +1,9 @@
 {
-  "version": "2.68",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.68/RechenmodellAmpel-Setup-2.68.exe",
-  "sha256": "be2c052a2612d0021ab3827af277642414eb7932215a685e55e9dd3da6f9ce2a",
-  "releaseNotes": "Neue unbenannte Codex-Chats werden für die Modellübernahme getrennt erkannt.",
+  "version": "2.69",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.69/RechenmodellAmpel-Setup-2.69.exe",
+  "sha256": "f8db395ae3cb3f235c4f0c90f3a8477b484f4d6bde3cd10fd671add26f4d6f87",
+  "releaseNotes": "Frische, noch nicht abgesendete Codex-Chats werden anhand der Startgrafik erkannt.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-15T14:40:11.1952535+00:00",
+  "publishedAtUtc": "2026-09-15T16:10:46.5770511+00:00",
   "publisherThumbprint": ""
 }
