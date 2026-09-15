@@ -1,9 +1,9 @@
 {
-  "version": "2.65",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.65/RechenmodellAmpel-Setup-2.65.exe",
-  "sha256": "0acf102b7cf9030fc4b279fd01156108064752967338d6a9f693060161112dfd",
-  "releaseNotes": "Dauerhafte schwebende PromptChecker-Empfehlung neben dem Codex-Senden-Pfeil.",
+  "version": "2.66",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel/releases/download/v2.66/RechenmodellAmpel-Setup-2.66.exe",
+  "sha256": "93aa3f8ecf28be1d77d40678476aa5904d925b2146af6acfed5c7089441a360a",
+  "releaseNotes": "Behebt die Modellübernahme aus dem Empfehlungs-Popup bei noch nicht geladener aktueller Codex-Auswahl.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-14T16:05:44.5961665+00:00",
+  "publishedAtUtc": "2026-09-15T10:38:38.7694535+00:00",
   "publisherThumbprint": ""
 }
