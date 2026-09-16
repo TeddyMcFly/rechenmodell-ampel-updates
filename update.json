@@ -1,9 +1,9 @@
 {
-  "version": "2.74",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.74/RechenmodellAmpel-Setup-2.74.exe",
-  "sha256": "b37c7d805b9502be8572a0be1c42c6d2864195bbdc760a97b547a40b5dde611d",
-  "releaseNotes": "Komplexitätsbalken im rechten Zielchat-Kasten ergänzt. Chat-Erkennung und Modellumschaltung bleiben unverändert.",
+  "version": "2.75",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.75/RechenmodellAmpel-Setup-2.75.exe",
+  "sha256": "c610ddb0090f902353bfb18c6a8d70088c8d4ca134d3577db4ed4344f4b417dc",
+  "releaseNotes": "Chat-Belastungsbalken anhand des aktiven Chatverlaufs. Entwicklungsdiagnose ausgeblendet, Zielchat-Bestätigungen erhalten. Chat-Erkennung und Modellumschaltung unverändert.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-16T08:11:38.8171906+00:00",
+  "publishedAtUtc": "2026-09-16T08:45:59.3934028+00:00",
   "publisherThumbprint": ""
 }
