@@ -1,9 +1,9 @@
 {
-    "version":  "2.77",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.77/RechenmodellAmpel-Setup-2.77.exe",
-    "sha256":  "abe35a3bfabc595cf88ad1e6d0eebc82d6bd0c40b197fbf66bdf1bed4bd9ef1f",
-    "releaseNotes":  "Aufrufstatistik beim Programmstart für die App-Zentrale ergänzt.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-16T10:17:41.5805674+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.78",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.78/RechenmodellAmpel-Setup-2.78.exe",
+  "sha256": "dc46f679e9f0977b15183eca7052ffda9cf2fbe2198623420ca56714acf82f7e",
+  "releaseNotes": "PromptChecker meldet Programmstarts, aktive Installationen, Sitzungen, Version und installierte Größe anonym an die App-Zentrale. Promptanalyse, Empfehlung, Chat-Erkennung und Modellumschaltung bleiben unverändert.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-16T16:54:01.8934693+00:00",
+  "publisherThumbprint": ""
 }
