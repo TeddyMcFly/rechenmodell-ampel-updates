@@ -1,9 +1,9 @@
 {
-    "version":  "2.76",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.76/RechenmodellAmpel-Setup-2.76.exe",
-    "sha256":  "b731d22c2fbed7f76ea964597cc8b008d7837d40934444f8d18bdec54e3c85d3",
-    "releaseNotes":  "Die Balkenanzeige unter Aboentscheidung zeigt jetzt immer die neuesten drei abgeschlossenen Regelwochen. Die bestehende Abo-Empfehlungslogik bleibt unverändert.",
+    "version":  "2.77",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.77/RechenmodellAmpel-Setup-2.77.exe",
+    "sha256":  "48564e6fe1e4831c77e1136a153c86af1aff7298d035116340e6a7bb8e6d0e06",
+    "releaseNotes":  "Die Kontingentbalken der Aboentscheidung zeigen die neuesten abgeschlossenen Zyklen des aktuellen Abos auch bei unregelmäßiger Zyklusdauer. Die Abo-Empfehlungslogik bleibt unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-16T09:03:14.5005275+00:00",
+    "publishedAtUtc":  "2026-09-16T09:17:33.6906553+00:00",
     "publisherThumbprint":  ""
 }
