@@ -1,9 +1,9 @@
 {
-  "version": "2.73",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.73/RechenmodellAmpel-Setup-2.73.exe",
-  "sha256": "ec0ca69803683b0de18228f04ede6e6090dfa636eec710174a804c65b7ca36d5",
-  "releaseNotes": "Stabile Modellumschaltung in neuen Chats: korrigierte Menüsuche, weniger wiederholte Abfragen und weiterhin sichere Bestätigung. Empfehlungs-Popup standardmäßig rechts neben dem Eingabefeld, bei zu wenig Platz links. Bestehender Umschaltweg bleibt erhalten.",
+  "version": "2.74",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.74/RechenmodellAmpel-Setup-2.74.exe",
+  "sha256": "b37c7d805b9502be8572a0be1c42c6d2864195bbdc760a97b547a40b5dde611d",
+  "releaseNotes": "Komplexitätsbalken im rechten Zielchat-Kasten ergänzt. Chat-Erkennung und Modellumschaltung bleiben unverändert.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-16T07:54:31.9200509+00:00",
+  "publishedAtUtc": "2026-09-16T08:11:38.8171906+00:00",
   "publisherThumbprint": ""
 }
