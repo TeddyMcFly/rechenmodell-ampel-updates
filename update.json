@@ -1,9 +1,9 @@
 {
-  "version": "2.72",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.72/RechenmodellAmpel-Setup-2.72.exe",
-  "sha256": "2446396907a9fa2dd198d1fa16a47f1720eae524d3d9e89f80961ec16627f4a7",
-  "releaseNotes": "Separate Modellumschaltung für neu angelegte Chats ohne Chat-ID. Bestehende Chat-Erkennung und Modellübernahme bleiben unverändert.",
+  "version": "2.73",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.73/RechenmodellAmpel-Setup-2.73.exe",
+  "sha256": "ec0ca69803683b0de18228f04ede6e6090dfa636eec710174a804c65b7ca36d5",
+  "releaseNotes": "Stabile Modellumschaltung in neuen Chats: korrigierte Menüsuche, weniger wiederholte Abfragen und weiterhin sichere Bestätigung. Empfehlungs-Popup standardmäßig rechts neben dem Eingabefeld, bei zu wenig Platz links. Bestehender Umschaltweg bleibt erhalten.",
   "mandatory": false,
-  "publishedAtUtc": "2026-09-16T04:42:04.3614860+00:00",
+  "publishedAtUtc": "2026-09-16T07:54:31.9200509+00:00",
   "publisherThumbprint": ""
 }
