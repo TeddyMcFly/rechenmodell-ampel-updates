@@ -1,9 +1,9 @@
 {
-    "version":  "2.71",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.71/RechenmodellAmpel-Setup-2.71.exe",
-    "sha256":  "ce0a9c23d4d8e0c04a15dab49fb87496f744270b8466576aba2246aac0a1f309",
-    "releaseNotes":  "Getrennte Startgrafik-Erkennung für neue Chats ohne Chat-ID. Bewährte Erkennung und schnelle Modellumschaltung auf Basis 2.67 bleiben unverändert. Keine Übernahme auf eine alte Chat-ID im erkannten neuen Zustand.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-09-15T20:05:43.8567954+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.72",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.72/RechenmodellAmpel-Setup-2.72.exe",
+  "sha256": "2446396907a9fa2dd198d1fa16a47f1720eae524d3d9e89f80961ec16627f4a7",
+  "releaseNotes": "Separate Modellumschaltung für neu angelegte Chats ohne Chat-ID. Bestehende Chat-Erkennung und Modellübernahme bleiben unverändert.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-09-16T04:42:04.3614860+00:00",
+  "publisherThumbprint": ""
 }
