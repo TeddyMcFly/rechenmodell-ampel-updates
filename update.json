@@ -1,9 +1,9 @@
 {
     "version":  "2.77",
     "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.77/RechenmodellAmpel-Setup-2.77.exe",
-    "sha256":  "48564e6fe1e4831c77e1136a153c86af1aff7298d035116340e6a7bb8e6d0e06",
-    "releaseNotes":  "Die Kontingentbalken der Aboentscheidung zeigen die neuesten abgeschlossenen Zyklen des aktuellen Abos auch bei unregelmäßiger Zyklusdauer. Die Abo-Empfehlungslogik bleibt unverändert.",
+    "sha256":  "abe35a3bfabc595cf88ad1e6d0eebc82d6bd0c40b197fbf66bdf1bed4bd9ef1f",
+    "releaseNotes":  "Aufrufstatistik beim Programmstart für die App-Zentrale ergänzt.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-16T09:17:33.6906553+00:00",
+    "publishedAtUtc":  "2026-09-16T10:17:41.5805674+00:00",
     "publisherThumbprint":  ""
 }
