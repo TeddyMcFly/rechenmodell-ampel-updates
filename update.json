@@ -1,9 +1,9 @@
 {
     "version":  "2.79",
     "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.79/RechenmodellAmpel-Setup-2.79.exe",
-    "sha256":  "b1545587e7e0e32ac62301d39bb852bd0a542acc9b3dc812ec37b0ce221dc508",
+    "sha256":  "e3dcaa91bd0e30a05f036993b397caeed73e92dbef820e171314eb9528fa0893",
     "releaseNotes":  "Spark-Kontingentanzeige kennzeichnet fehlende Spark-Limitdaten jetzt eindeutig. Das normale Codex-Kontingent wird nicht als Ersatz verwendet; Erkennung, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-18T05:38:13.3138923+00:00",
+    "publishedAtUtc":  "2026-09-18T05:41:09.7714006+00:00",
     "publisherThumbprint":  ""
 }
