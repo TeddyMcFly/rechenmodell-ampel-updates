@@ -1,9 +1,9 @@
 {
-  "version": "2.78",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.78/RechenmodellAmpel-Setup-2.78.exe",
-  "sha256": "dc46f679e9f0977b15183eca7052ffda9cf2fbe2198623420ca56714acf82f7e",
-  "releaseNotes": "PromptChecker meldet Programmstarts, aktive Installationen, Sitzungen, Version und installierte Größe anonym an die App-Zentrale. Promptanalyse, Empfehlung, Chat-Erkennung und Modellumschaltung bleiben unverändert.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-09-16T16:54:01.8934693+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.79",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.79/RechenmodellAmpel-Setup-2.79.exe",
+    "sha256":  "b1545587e7e0e32ac62301d39bb852bd0a542acc9b3dc812ec37b0ce221dc508",
+    "releaseNotes":  "Spark-Kontingentanzeige kennzeichnet fehlende Spark-Limitdaten jetzt eindeutig. Das normale Codex-Kontingent wird nicht als Ersatz verwendet; Erkennung, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-09-18T05:38:13.3138923+00:00",
+    "publisherThumbprint":  ""
 }
