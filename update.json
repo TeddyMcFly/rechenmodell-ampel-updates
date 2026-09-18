@@ -1,9 +1,9 @@
 {
-    "version":  "2.81",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.81/RechenmodellAmpel-Setup-2.81.exe",
-    "sha256":  "3258934ff7df0c26eafabecf4bbd118007bc9f38bc9ac7724c74851ebb502300",
-    "releaseNotes":  "Beim ausgeblendeten Spark-Kasten entfällt die freie Layout-Spalte; PromptChecker wird entsprechend schmaler. Der verbleibende Tacho heißt dann Gesamt-Kontingent. Erkennungslogik, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
+    "version":  "2.82",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.82/RechenmodellAmpel-Setup-2.82.exe",
+    "sha256":  "37f8eb16d92507b245f8b677b006a67c188b0cfd34ff5963b911ac54eefea70d",
+    "releaseNotes":  "Nicht lesbare Codex-Prozesse werden bei der Speicherberechnung einzeln übersprungen; alle übrigen Codex- und ChatGPT-Prozesse bleiben enthalten. Bei ausgeblendetem Spark-Kasten wird jetzt die tatsächlich dargestellte Fensterbreite verkleinert. Erkennungslogik, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-18T06:30:19.0208185+00:00",
+    "publishedAtUtc":  "2026-09-18T07:21:23.9962402+00:00",
     "publisherThumbprint":  ""
 }
