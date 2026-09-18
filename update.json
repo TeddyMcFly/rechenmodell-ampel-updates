@@ -1,9 +1,9 @@
 {
-    "version":  "2.79",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.79/RechenmodellAmpel-Setup-2.79.exe",
-    "sha256":  "e3dcaa91bd0e30a05f036993b397caeed73e92dbef820e171314eb9528fa0893",
-    "releaseNotes":  "Spark-Kontingentanzeige kennzeichnet fehlende Spark-Limitdaten jetzt eindeutig. Das normale Codex-Kontingent wird nicht als Ersatz verwendet; Erkennung, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
+    "version":  "2.80",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.80/RechenmodellAmpel-Setup-2.80.exe",
+    "sha256":  "d66d6994668c49c05dd0176e9d01dde53e42b309a8dd98c9b010b70bd9010449",
+    "releaseNotes":  "Der Spark-Tacho-Kasten wird ausgeblendet, wenn Spark in der aktuellen Codex-Modellliste nicht verfügbar oder ausgeblendet ist. Erkennungslogik, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-18T05:41:09.7714006+00:00",
+    "publishedAtUtc":  "2026-09-18T06:12:12.7959895+00:00",
     "publisherThumbprint":  ""
 }
