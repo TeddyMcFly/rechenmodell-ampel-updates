@@ -1,9 +1,9 @@
 {
-    "version":  "2.82",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.82/RechenmodellAmpel-Setup-2.82.exe",
-    "sha256":  "37f8eb16d92507b245f8b677b006a67c188b0cfd34ff5963b911ac54eefea70d",
-    "releaseNotes":  "Nicht lesbare Codex-Prozesse werden bei der Speicherberechnung einzeln übersprungen; alle übrigen Codex- und ChatGPT-Prozesse bleiben enthalten. Bei ausgeblendetem Spark-Kasten wird jetzt die tatsächlich dargestellte Fensterbreite verkleinert. Erkennungslogik, Empfehlung, Einstellungen und Modellumschaltung bleiben unverändert.",
+    "version":  "2.83",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.83/RechenmodellAmpel-Setup-2.83.exe",
+    "sha256":  "87310d7b914ce9d926217097c9b54d33fe2d2e3f130adc59bbb3927cb7bc821c",
+    "releaseNotes":  "GPT-6.1 Sol und GPT-6 Sol werden zusätzlich zu GPT-5.6 Sol mit exakter Modellkennung empfohlen und verglichen. Ultra wird ohne zuverlässig feststellbare Freigabe nicht automatisch empfohlen. Chat- und Prompt-Erkennung sowie Modellübernahme bleiben unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-09-18T07:21:23.9962402+00:00",
+    "publishedAtUtc":  "2026-10-08T16:23:57.0737238+00:00",
     "publisherThumbprint":  ""
 }
