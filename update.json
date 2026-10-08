@@ -1,9 +1,9 @@
 {
-    "version":  "2.83",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.83/RechenmodellAmpel-Setup-2.83.exe",
-    "sha256":  "87310d7b914ce9d926217097c9b54d33fe2d2e3f130adc59bbb3927cb7bc821c",
-    "releaseNotes":  "GPT-6.1 Sol und GPT-6 Sol werden zusätzlich zu GPT-5.6 Sol mit exakter Modellkennung empfohlen und verglichen. Ultra wird ohne zuverlässig feststellbare Freigabe nicht automatisch empfohlen. Chat- und Prompt-Erkennung sowie Modellübernahme bleiben unverändert.",
+    "version":  "2.84",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.84/RechenmodellAmpel-Setup-2.84.exe",
+    "sha256":  "bf6d24c8b87452c7d4a0ea42aa2c92bb9c0b5fa52b847222e48e727e6200f4ff",
+    "releaseNotes":  "Chatwechsel zu bereits geöffneten Chats werden aus der Codex-Protokollnavigation bestätigt. Fremde Inaktivmeldungen löschen die aktive Zuordnung nicht. Unklare Wechsel werden sicher angehalten; die Neuchat-Erkennung bleibt unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-08T16:23:57.0737238+00:00",
+    "publishedAtUtc":  "2026-10-08T18:23:48.7944880+00:00",
     "publisherThumbprint":  ""
 }
