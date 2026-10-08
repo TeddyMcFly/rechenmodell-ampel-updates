@@ -1,9 +1,9 @@
 {
     "version":  "2.84",
     "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.84/RechenmodellAmpel-Setup-2.84.exe",
-    "sha256":  "bf6d24c8b87452c7d4a0ea42aa2c92bb9c0b5fa52b847222e48e727e6200f4ff",
+    "sha256":  "421475e9251bce0aacc6d05b083c81cfe7141567fd6e0cc5f1417cf2beb47ada",
     "releaseNotes":  "Chatwechsel zu bereits geöffneten Chats werden aus der Codex-Protokollnavigation bestätigt. Fremde Inaktivmeldungen löschen die aktive Zuordnung nicht. Unklare Wechsel werden sicher angehalten; die Neuchat-Erkennung bleibt unverändert.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-08T18:23:48.7944880+00:00",
+    "publishedAtUtc":  "2026-10-08T18:29:18.0655018+00:00",
     "publisherThumbprint":  ""
 }
