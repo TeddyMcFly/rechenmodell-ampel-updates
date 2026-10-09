@@ -1,9 +1,9 @@
 {
   "version": "2.86",
   "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.86/RechenmodellAmpel-Setup-2.86-final.exe",
-  "sha256": "ada82dcfc55206b64010ab64e1656e2bd01a362ad38da13419d0d42d28e98856",
+  "sha256": "c15740315e06c376e5be457b855be7c3e70e764bd42c67f2d07d9a436c35451e",
   "releaseNotes": "Sieben Informationskästen können jetzt in den Einstellungen einzeln ein- und ausgeblendet werden. Das Layout und die Fensterbreite werden automatisch aus den sichtbaren Kästen neu berechnet; der Ausführungsbereich bleibt sichtbar.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-09T09:28:45.2063309+00:00",
+  "publishedAtUtc": "2026-10-09T09:35:07.8334579+00:00",
   "publisherThumbprint": ""
 }
