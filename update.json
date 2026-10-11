@@ -1,9 +1,9 @@
 {
-  "version": "2.90",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.90/RechenmodellAmpel-Setup-2.90-final.exe",
-  "sha256": "32f60e1a5ff986e8bdbbf2b1dc8e163295d0c2d72169d4018bd393154557edd0",
-  "releaseNotes": "Die Zielüberschrift im ersten Kasten ist größer. Bei ChatGPT-Erkennung in Chrom wird „ChatGPT in Chrom“ angezeigt; Modell und Rechenstufe darunter sind kompakter.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-11T17:27:55.1895937+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.91",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.91/RechenmodellAmpel-Setup-2.91-final.exe",
+    "sha256":  "f9ce34879473d91f28fc61c1d8b50a0b8170da7e48782d123c31ed9a7102165f",
+    "releaseNotes":  "Die erkannte aktive Chat-Info steht direkt unter der Überschrift im ersten Kasten. Die Chat-Belastungsanzeige bleibt im rechten Aktionskasten. Das errechnete Tageskontingent ergänzt die Überschrift des Tageskontingent-Kastens als Prozentzahl.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-11T18:25:11.5245190+00:00",
+    "publisherThumbprint":  ""
 }
