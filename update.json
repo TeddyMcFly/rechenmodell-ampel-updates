@@ -1,9 +1,9 @@
 {
-  "version": "2.88",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.88/RechenmodellAmpel-Setup-2.88-final.exe",
-  "sha256": "40fa2c2da459651471f6dcec4ada4fbcfee434380a9869b76d17bc2174060bb7",
-  "releaseNotes": "Bestätigte ChatGPT-/Codex-Überschrift im ersten Eingabefeld, zentrierte Versionsnummer am unteren Rand des ersten Kastens sowie Kontingentverbrauchs-Auswertung mit Verlauf und zusätzlicher Kontonutzung.",
+  "version": "2.89",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.89/RechenmodellAmpel-Setup-2.89-final.exe",
+  "sha256": "7e62456e5fdb1c860d72984140dbd5fc430d68fe82485c3641aa2b0c401b7f36",
+  "releaseNotes": "Native Codex-Fenster werden trotz ChatGPT.exe korrekt als „Codex:“ angezeigt; Fragezeichen und der untere Erklärungstext im Kontingentverlauf wurden entfernt.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-11T16:32:16.8448200+00:00",
+  "publishedAtUtc": "2026-10-11T16:55:44.6065746+00:00",
   "publisherThumbprint": ""
 }
