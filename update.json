@@ -1,9 +1,9 @@
 {
-    "version":  "2.91",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.91/RechenmodellAmpel-Setup-2.91-final.exe",
-    "sha256":  "f9ce34879473d91f28fc61c1d8b50a0b8170da7e48782d123c31ed9a7102165f",
-    "releaseNotes":  "Die erkannte aktive Chat-Info steht direkt unter der Überschrift im ersten Kasten. Die Chat-Belastungsanzeige bleibt im rechten Aktionskasten. Das errechnete Tageskontingent ergänzt die Überschrift des Tageskontingent-Kastens als Prozentzahl.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-10-11T18:25:11.5245190+00:00",
-    "publisherThumbprint":  ""
+    "version": "2.92",
+    "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.92/RechenmodellAmpel-Setup-2.92.exe",
+    "sha256": "6a80e325f25afae90673594dcf943663302d6b6e3a0d4e408fa983701934e2e6",
+    "releaseNotes": "Die optionale lokale TestBridge-Diagnose exportiert nachvollziehbare Ereignisse und Snapshots. Ein separater TestBridgeReader prüft Diagnoseordner und Schema. Die Diagnose bleibt außerhalb der Erkennung, Empfehlung und Modellumschaltung; eigene Aufgabenbuttons bleiben erhalten.",
+    "mandatory": false,
+    "publishedAtUtc": "2026-10-11T20:36:50.5461638+00:00",
+    "publisherThumbprint": ""
 }
