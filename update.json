@@ -1,9 +1,9 @@
 {
-  "version": "2.87",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.87/RechenmodellAmpel-Setup-2.87-final.exe",
-  "sha256": "82d363dae4d3780e4fedcb7ee4fb0264689edca6c9325591d0f75ccd6a35a67a",
-  "releaseNotes": "Der Spark-Kasten wird in den Einstellungen nur angeboten, wenn ein Spark-Kontingent verfügbar ist. Die Bezeichnungen wurden verständlicher formuliert: 7-Tage-Kontingent, Kontingentnutzung und Tages-Kontingent.",
+  "version": "2.88",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.88/RechenmodellAmpel-Setup-2.88-final.exe",
+  "sha256": "40fa2c2da459651471f6dcec4ada4fbcfee434380a9869b76d17bc2174060bb7",
+  "releaseNotes": "Bestätigte ChatGPT-/Codex-Überschrift im ersten Eingabefeld, zentrierte Versionsnummer am unteren Rand des ersten Kastens sowie Kontingentverbrauchs-Auswertung mit Verlauf und zusätzlicher Kontonutzung.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-09T10:08:58.0139178+00:00",
+  "publishedAtUtc": "2026-10-11T16:32:16.8448200+00:00",
   "publisherThumbprint": ""
 }
