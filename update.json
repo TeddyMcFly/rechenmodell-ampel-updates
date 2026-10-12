@@ -1,9 +1,9 @@
 {
-    "version": "2.92",
-    "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.92/RechenmodellAmpel-Setup-2.92.exe",
-    "sha256": "6a80e325f25afae90673594dcf943663302d6b6e3a0d4e408fa983701934e2e6",
-    "releaseNotes": "Die optionale lokale TestBridge-Diagnose exportiert nachvollziehbare Ereignisse und Snapshots. Ein separater TestBridgeReader prüft Diagnoseordner und Schema. Die Diagnose bleibt außerhalb der Erkennung, Empfehlung und Modellumschaltung; eigene Aufgabenbuttons bleiben erhalten.",
-    "mandatory": false,
-    "publishedAtUtc": "2026-10-11T20:36:50.5461638+00:00",
-    "publisherThumbprint": ""
+  "version": "2.93",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.93/RechenmodellAmpel-Setup-2.93.exe",
+  "sha256": "e50296c06ac315a598f5f8ce5a15616b48ee0242eb49832209ea56738040e822",
+  "releaseNotes": "Der gespeicherte Kontingentverlauf zeigt durchgehende Kurven, Tagesmarken und Kalenderwochen. Wochenstriche folgen dem Kontingentzeitraum des Servers und erscheinen auch bei fehlenden Reset-Messungen; beim aktuellen Sonntagsreset zwischen Samstag und Sonntag. Doppelte Kurven und Reset-Markierungen werden vermieden.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-12T14:57:10.4617089+00:00",
+  "publisherThumbprint": ""
 }
