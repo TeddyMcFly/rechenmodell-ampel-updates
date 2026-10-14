@@ -1,9 +1,9 @@
 {
-  "version": "2.96",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.96/RechenmodellAmpel-Setup-2.96.exe",
-  "sha256": "1f364201ff5a0a5dc993dbadcc41ca8c6a6021f0d7a14e1fab72459a9aed99f6",
-  "releaseNotes": "Beim Rückwechsel zu einem bestehenden Codex-Chat bestätigt PromptChecker die aktuelle Chat-ID zusätzlich über die frische thread/queue/list-Antwort desselben Renderers und derselben Route. Unsichere, fehlerhafte oder verspätete Antworten werden nicht als Bestätigung übernommen. 832 automatisierte Tests bestanden.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-12T19:00:08.7792278+00:00",
-  "publisherThumbprint": ""
+    "version":  "2.98",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.98/RechenmodellAmpel-Setup-2.98.exe",
+    "sha256":  "24761af4bd786720682c00608116af49875db3424f7245f4072b4b95e4269360",
+    "releaseNotes":  "PC-Logo mit transparentem Außenbereich ersetzt den Ziehgriff im ersten Kasten und steht im kompakten Kasten links oben neben den Bedienknöpfen. Der farbige Modellpunkt entfällt; Modell und Rechenstufe bleiben sichtbar. 861 automatisierte Tests bestanden.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-14T15:36:07.5286480+00:00",
+    "publisherThumbprint":  ""
 }
