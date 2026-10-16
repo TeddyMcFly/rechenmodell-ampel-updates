@@ -1,9 +1,9 @@
 {
-    "version":  "2.98",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.98/RechenmodellAmpel-Setup-2.98.exe",
-    "sha256":  "24761af4bd786720682c00608116af49875db3424f7245f4072b4b95e4269360",
-    "releaseNotes":  "PC-Logo mit transparentem Außenbereich ersetzt den Ziehgriff im ersten Kasten und steht im kompakten Kasten links oben neben den Bedienknöpfen. Der farbige Modellpunkt entfällt; Modell und Rechenstufe bleiben sichtbar. 861 automatisierte Tests bestanden.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-10-14T15:36:07.5286480+00:00",
-    "publisherThumbprint":  ""
+  "version": "2.99",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.99/RechenmodellAmpel-Setup-2.99.exe",
+  "sha256": "3f255911831d9a2db4ea35fe8ef2685a3726b8925247fea4b67457f930c35a07",
+  "releaseNotes": "Kontingent-Verlauf mit gedehnter Zeitachse, dickerem Wochenstrich, aktuellem Zeitraum beim Öffnen und sicherer Trennung widersprüchlicher Messungen.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-16T10:17:03.6552720+00:00",
+  "publisherThumbprint": ""
 }
