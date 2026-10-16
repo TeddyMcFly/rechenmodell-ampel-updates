@@ -1,9 +1,9 @@
 {
-  "version": "2.99",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v2.99/RechenmodellAmpel-Setup-2.99.exe",
-  "sha256": "3f255911831d9a2db4ea35fe8ef2685a3726b8925247fea4b67457f930c35a07",
-  "releaseNotes": "Kontingent-Verlauf mit gedehnter Zeitachse, dickerem Wochenstrich, aktuellem Zeitraum beim Öffnen und sicherer Trennung widersprüchlicher Messungen.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-16T10:17:03.6552720+00:00",
-  "publisherThumbprint": ""
+    "version":  "3.00",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.00/RechenmodellAmpel-Setup-3.00.exe",
+    "sha256":  "56cdc8ad261b57976db770be305e315f2fb07e14a8a802362d069c1dda564dea",
+    "releaseNotes":  "Verbesserte Erkennung anspruchsvoller Alltagssprache bei gleichzeitigen oder gelegentlichen Fehlern ohne zusätzliche KI-Analyse; einfache und reine Kopieraufträge bleiben niedrig eingestuft. 881 automatisierte Tests bestanden.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-16T16:13:35.1829275+00:00",
+    "publisherThumbprint":  ""
 }
