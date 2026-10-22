@@ -1,9 +1,9 @@
 {
-  "version": "3.01",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.01/RechenmodellAmpel-Setup-3.01.exe",
-  "sha256": "6dac084ee167a442eeb4245e76debb14375966fa6697ea796fb859ecc98d57fa",
-  "releaseNotes": "Zielchat-Auswahl erst nach fünf erfolglosen Bestätigungen desselben Chats; automatisches Schließen bei erfolgreicher Erkennung; zusätzlicher Schließen-Button ohne Änderung des Zielchats oder Modells. 881 automatisierte Tests im vollständigen Lauf hintereinander bestanden.",
+  "version": "3.02",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.02/RechenmodellAmpel-Setup-3.02.exe",
+  "sha256": "a96d67a101a74d68f3c3c70ecf99bece6140886de9b20222fbca42a6ee28970f",
+  "releaseNotes": "Nur die Versionsanzeige korrigiert: Das Hauptfenster zeigt die Veröffentlichungsnummer mit führender Null, beispielsweise Version 3.02, anstelle der technischen Versionsnummer. Sonstige Funktionen unverändert. 881 automatisierte Tests bestanden.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-22T07:19:03.2912049+00:00",
+  "publishedAtUtc": "2026-10-22T07:36:02.4167306+00:00",
   "publisherThumbprint": ""
 }
