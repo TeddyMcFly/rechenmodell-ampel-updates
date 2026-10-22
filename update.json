@@ -1,9 +1,9 @@
 {
-    "version":  "3.08",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.08/RechenmodellAmpel-Setup-3.08.exe",
-    "sha256":  "a0109313e5a46b1b70e72a5fb42ac1951e74ba081e70b8101de48739e44b91dd",
-    "releaseNotes":  "Das Fenster zur Bearbeitung lokaler Homepage-Dateien heißt jetzt Lokaler Editor. Textstellen ohne zusätzliche Homepage-Anbindung bearbeiten, mit Sicherung vor dem Speichern und Prüfung auf Dateikonflikte. Bestehende Homepage-Bearbeitung, Chat-Erkennung und Modellumschaltung bleiben erhalten. 980 Tests bestanden.",
+    "version":  "3.09",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.09/RechenmodellAmpel-Setup-3.09.exe",
+    "sha256":  "dcaaa09b71db0cdb5e4705de5c95d8377ca7f982df6c7fbaef17c77b400f0ae6",
+    "releaseNotes":  "Lokale Homepages in ihrer Vorschau mit verschiebbarem, schwebendem Texteditor bearbeiten. Einfach verbinden über Ordnerauswahl, Verbinden und Speichern. Formatierung, Sicherung, Dateikonfliktschutz und Rücknahme; nicht sicher zuordenbare Texte erhalten einen Hinweis. Bestehende GMDS-Anbindung, Chat-Erkennung und Modellvorschläge bleiben erhalten. 998 Anwendungstests und 4 Editor-Tests bestanden.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-22T17:17:53.7786420+00:00",
+    "publishedAtUtc":  "2026-10-22T17:43:00.3229735+00:00",
     "publisherThumbprint":  ""
 }
