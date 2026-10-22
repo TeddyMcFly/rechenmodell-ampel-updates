@@ -1,9 +1,9 @@
 {
-  "version": "3.06",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.06/RechenmodellAmpel-Setup-3.06.exe",
-  "sha256": "2256313b461c7235b663e7180906f01ed0b5fa479f63900a9d1be0d76bb24371",
-  "releaseNotes": "Textverarbeitung einfacher einrichten: vorhandenes Projekt auswählen, Textverarbeitung verbinden, Einstellungen speichern. Name und Ordner vorausgefüllt; Vorschauadresse automatisch gefunden. Weitere Angaben unter Erweitert. Homepage-Dateien, Chat-Erkennung und Modellumschaltung unverändert. Abschließender Release-Testlauf: 955 Tests bestanden.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-22T10:48:36.3654156+00:00",
-  "publisherThumbprint": ""
+    "version":  "3.07",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.07/RechenmodellAmpel-Setup-3.07.exe",
+    "sha256":  "9f42c2751c7c32412ad2c5a593fa2cfa3a961c80b12fba5fdffa74721f9a4b54",
+    "releaseNotes":  "Textverarbeitung in Kasten 1 für das gespeicherte Projekt unabhängig vom aktiven Chat einschalten. Bestehende GMDS-Verbindung bleibt ohne erneute Einrichtung nutzbar; gespeicherte Projektauswahl wird beibehalten. Lokale Vorschau wird weiterhin eindeutig geprüft. Chat-Erkennung und Modellumschaltung unverändert. 959 Tests bestanden.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-22T15:38:48.4531828+00:00",
+    "publisherThumbprint":  ""
 }
