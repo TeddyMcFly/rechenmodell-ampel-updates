@@ -1,9 +1,9 @@
 {
-    "version":  "3.00",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.00/RechenmodellAmpel-Setup-3.00.exe",
-    "sha256":  "56cdc8ad261b57976db770be305e315f2fb07e14a8a802362d069c1dda564dea",
-    "releaseNotes":  "Verbesserte Erkennung anspruchsvoller Alltagssprache bei gleichzeitigen oder gelegentlichen Fehlern ohne zusätzliche KI-Analyse; einfache und reine Kopieraufträge bleiben niedrig eingestuft. 881 automatisierte Tests bestanden.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-10-16T16:13:35.1829275+00:00",
-    "publisherThumbprint":  ""
+  "version": "3.01",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.01/RechenmodellAmpel-Setup-3.01.exe",
+  "sha256": "6dac084ee167a442eeb4245e76debb14375966fa6697ea796fb859ecc98d57fa",
+  "releaseNotes": "Zielchat-Auswahl erst nach fünf erfolglosen Bestätigungen desselben Chats; automatisches Schließen bei erfolgreicher Erkennung; zusätzlicher Schließen-Button ohne Änderung des Zielchats oder Modells. 881 automatisierte Tests im vollständigen Lauf hintereinander bestanden.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-22T07:19:03.2912049+00:00",
+  "publisherThumbprint": ""
 }
