@@ -1,9 +1,9 @@
 {
-  "version": "3.02",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.02/RechenmodellAmpel-Setup-3.02.exe",
-  "sha256": "a96d67a101a74d68f3c3c70ecf99bece6140886de9b20222fbca42a6ee28970f",
-  "releaseNotes": "Nur die Versionsanzeige korrigiert: Das Hauptfenster zeigt die Veröffentlichungsnummer mit führender Null, beispielsweise Version 3.02, anstelle der technischen Versionsnummer. Sonstige Funktionen unverändert. 881 automatisierte Tests bestanden.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-22T07:36:02.4167306+00:00",
-  "publisherThumbprint": ""
+    "version":  "3.03",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.03/RechenmodellAmpel-Setup-3.03.exe",
+    "sha256":  "d418024e69ccce7bf4ca8ec3a0d0d1f033ad46d7b473628d763ed0f55bb39637",
+    "releaseNotes":  "Lokale Textverarbeitung pro Homepage-Projekt mit On-/Off-Schalter und Einrichtungsassistent. Homepage-Projektdateien erst nach ausdrücklicher Freigabe im Assistenten ändern; Sicherung vor Übernahme. Ohne Einrichtung bleibt der Schalter gesperrt. Erkennung und Modellumschaltung unverändert. 916 automatisierte Tests bestanden.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-22T09:01:40.0281664+00:00",
+    "publisherThumbprint":  ""
 }
