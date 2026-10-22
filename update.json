@@ -1,9 +1,9 @@
 {
-    "version":  "3.04",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.04/RechenmodellAmpel-Setup-3.04.exe",
-    "sha256":  "2ebd43e24db473d79197c1f112c5c089a059f9467049b48ba450f34f1236de01",
-    "releaseNotes":  "Lokalen GMDS-Editor-Port beim Prüfen und Einschalten automatisch über den eingerichteten Projektordner erkennen. Fremde oder mehrdeutige Server werden nicht übernommen; pausierte Entwürfe bleiben erhalten. Homepage-Dateien, Chat-Erkennung und Modellumschaltung unverändert. 928 automatisierte Tests bestanden.",
+    "version":  "3.05",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.05/RechenmodellAmpel-Setup-3.05.exe",
+    "sha256":  "7627e1ae61f471f7e1071d58c4fe8bb46abbe65253b2b6ba05497f678990d443",
+    "releaseNotes":  "Vorschauadresse automatisch anzeigen statt manuell eingeben. Optionalen Start-Port unter Erweitert einstellen; leer verwendet 3010. Erkannte Adresse und Start-Port getrennt speichern, bestehende Einstellungen erhalten. Homepage-Dateien, Chat-Erkennung und Modellumschaltung unverändert. Aktueller Release-Lauf: 946 Tests bestanden.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-22T09:48:50.9909703+00:00",
+    "publishedAtUtc":  "2026-10-22T10:16:29.2665659+00:00",
     "publisherThumbprint":  ""
 }
