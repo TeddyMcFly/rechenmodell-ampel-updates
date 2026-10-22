@@ -1,9 +1,9 @@
 {
-    "version":  "3.03",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.03/RechenmodellAmpel-Setup-3.03.exe",
-    "sha256":  "d418024e69ccce7bf4ca8ec3a0d0d1f033ad46d7b473628d763ed0f55bb39637",
-    "releaseNotes":  "Lokale Textverarbeitung pro Homepage-Projekt mit On-/Off-Schalter und Einrichtungsassistent. Homepage-Projektdateien erst nach ausdrücklicher Freigabe im Assistenten ändern; Sicherung vor Übernahme. Ohne Einrichtung bleibt der Schalter gesperrt. Erkennung und Modellumschaltung unverändert. 916 automatisierte Tests bestanden.",
+    "version":  "3.04",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.04/RechenmodellAmpel-Setup-3.04.exe",
+    "sha256":  "2ebd43e24db473d79197c1f112c5c089a059f9467049b48ba450f34f1236de01",
+    "releaseNotes":  "Lokalen GMDS-Editor-Port beim Prüfen und Einschalten automatisch über den eingerichteten Projektordner erkennen. Fremde oder mehrdeutige Server werden nicht übernommen; pausierte Entwürfe bleiben erhalten. Homepage-Dateien, Chat-Erkennung und Modellumschaltung unverändert. 928 automatisierte Tests bestanden.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-22T09:01:40.0281664+00:00",
+    "publishedAtUtc":  "2026-10-22T09:48:50.9909703+00:00",
     "publisherThumbprint":  ""
 }
