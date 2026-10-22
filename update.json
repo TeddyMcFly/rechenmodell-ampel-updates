@@ -1,9 +1,9 @@
 {
-    "version":  "3.07",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.07/RechenmodellAmpel-Setup-3.07.exe",
-    "sha256":  "9f42c2751c7c32412ad2c5a593fa2cfa3a961c80b12fba5fdffa74721f9a4b54",
-    "releaseNotes":  "Textverarbeitung in Kasten 1 für das gespeicherte Projekt unabhängig vom aktiven Chat einschalten. Bestehende GMDS-Verbindung bleibt ohne erneute Einrichtung nutzbar; gespeicherte Projektauswahl wird beibehalten. Lokale Vorschau wird weiterhin eindeutig geprüft. Chat-Erkennung und Modellumschaltung unverändert. 959 Tests bestanden.",
+    "version":  "3.08",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.08/RechenmodellAmpel-Setup-3.08.exe",
+    "sha256":  "a0109313e5a46b1b70e72a5fb42ac1951e74ba081e70b8101de48739e44b91dd",
+    "releaseNotes":  "Das Fenster zur Bearbeitung lokaler Homepage-Dateien heißt jetzt Lokaler Editor. Textstellen ohne zusätzliche Homepage-Anbindung bearbeiten, mit Sicherung vor dem Speichern und Prüfung auf Dateikonflikte. Bestehende Homepage-Bearbeitung, Chat-Erkennung und Modellumschaltung bleiben erhalten. 980 Tests bestanden.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-22T15:38:48.4531828+00:00",
+    "publishedAtUtc":  "2026-10-22T17:17:53.7786420+00:00",
     "publisherThumbprint":  ""
 }
