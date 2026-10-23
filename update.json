@@ -1,9 +1,9 @@
 {
-    "version":  "3.10",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.10/RechenmodellAmpel-Setup-3.10.exe",
-    "sha256":  "8219a3857c5687b2f79389a8b08c032f033f54eb5123c2c4c4c9140e0c2a94b3",
-    "releaseNotes":  "Lokaler Editor mit Auswahl und Entfernen ganzer Kästen; Nutzungsübersicht mit tatsächlichem Verlauf.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-10-23T13:39:34.6976163+00:00",
-    "publisherThumbprint":  ""
+  "version": "3.11",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.11/RechenmodellAmpel-Setup-3.11.exe",
+  "sha256": "55508648ab4d9bc9ca1c38c26cb7a49109b4ecdb41b17aa5eddc8aa9dc13d700",
+  "releaseNotes": "Geräteübersicht mit abgeschlossenen Tokenvergleichen für gestern. Wochen-, Monats- und Gesamtansichten bleiben verfügbar. 1.000 automatisierte Tests bestanden.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-23T16:48:05.8987662+00:00",
+  "publisherThumbprint": ""
 }
