@@ -1,9 +1,9 @@
 {
-    "version":  "3.09",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.09/RechenmodellAmpel-Setup-3.09.exe",
-    "sha256":  "dcaaa09b71db0cdb5e4705de5c95d8377ca7f982df6c7fbaef17c77b400f0ae6",
-    "releaseNotes":  "Lokale Homepages in ihrer Vorschau mit verschiebbarem, schwebendem Texteditor bearbeiten. Einfach verbinden über Ordnerauswahl, Verbinden und Speichern. Formatierung, Sicherung, Dateikonfliktschutz und Rücknahme; nicht sicher zuordenbare Texte erhalten einen Hinweis. Bestehende GMDS-Anbindung, Chat-Erkennung und Modellvorschläge bleiben erhalten. 998 Anwendungstests und 4 Editor-Tests bestanden.",
+    "version":  "3.10",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.10/RechenmodellAmpel-Setup-3.10.exe",
+    "sha256":  "8219a3857c5687b2f79389a8b08c032f033f54eb5123c2c4c4c9140e0c2a94b3",
+    "releaseNotes":  "Lokaler Editor mit Auswahl und Entfernen ganzer Kästen; Nutzungsübersicht mit tatsächlichem Verlauf.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-22T17:43:00.3229735+00:00",
+    "publishedAtUtc":  "2026-10-23T13:39:34.6976163+00:00",
     "publisherThumbprint":  ""
 }
