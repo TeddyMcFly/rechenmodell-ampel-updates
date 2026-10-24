@@ -1,9 +1,9 @@
 {
-  "version": "3.12",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.12/RechenmodellAmpel-Setup-3.12.exe",
-  "sha256": "69797b6712e053093563250d8781320a897eee0cbe4fd6d9f0afc64aa6b4eea1",
-  "releaseNotes": "Lokaler Editor für erreichbare lokale Homepages im aktuellen Codex-Projekt. Projektwechsel pausiert die Bearbeitung; bei Rückkehr werden ON/OFF und der offene Entwurf wiederhergestellt. Sichtbare Lade- und Fehlermeldungen. Chat-Erkennung und Modellumschaltung bleiben erhalten.",
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-24T09:11:14.9167775+00:00",
-  "publisherThumbprint": ""
+    "version":  "3.12",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.12/RechenmodellAmpel-Setup-3.12.exe",
+    "sha256":  "528a967458d6936d76c0791f58b6e65e970e383d91929f7a8ed0d4bc7db0b651",
+    "releaseNotes":  "PromptChecker übernimmt jetzt alle Funktionen des lokalen Homepage-Editors. Der GMDS-Editor wurde entfernt; Inhalte und Gestaltungen bleiben erhalten. Chat-Erkennung und Modellumschaltung bleiben erhalten.",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-24T10:13:34.8941544+00:00",
+    "publisherThumbprint":  ""
 }
