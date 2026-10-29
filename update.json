@@ -1,9 +1,9 @@
 {
-    "version":  "3.13",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.13/RechenmodellAmpel-Setup-3.13.exe",
-    "sha256":  "e6df4984c3f06bdf055c53a26d57d862734a134434d1cc55de2eaae0da8dd4d7",
-    "releaseNotes":  "PromptChecker 3.13: Kalenderwochen aus dem Kontingentverlauf entfernt; Info-Legende zu Farben, Kurven, Kontingentwochen-Grenzen und Reset-Zeichen ergänzt. Geprüft mit 1.033 .NET-Tests.",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-10-29T10:34:27.7718139+00:00",
-    "publisherThumbprint":  ""
+  "version": "3.14",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.14/RechenmodellAmpel-Setup-3.14.exe",
+  "sha256": "6e25a5ca8397e9600f89146686adfb851ee6884bc65e71df8a1ef8962df55bf5",
+  "releaseNotes": "PromptChecker 3.14: Codex-Vorgaben, Gesprächsverlauf und wiederholte Fehlversuche werden bei der Modell-Empfehlung berücksichtigt. Vollständige Begründung per Mauszeiger und klickbare Kontingent-Legende. Chat-Erkennung und Modellumschaltung unverändert. Build und 1.047 Tests erfolgreich.",
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-29T19:09:14.8691564+00:00",
+  "publisherThumbprint": ""
 }
