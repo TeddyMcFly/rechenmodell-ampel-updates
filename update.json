@@ -1,9 +1,9 @@
 {
-    "version":  "3.12",
-    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.12/RechenmodellAmpel-Setup-3.12.exe",
-    "sha256":  "528a967458d6936d76c0791f58b6e65e970e383d91929f7a8ed0d4bc7db0b651",
-    "releaseNotes":  "PromptChecker übernimmt jetzt alle Funktionen des lokalen Homepage-Editors. Der GMDS-Editor wurde entfernt; Inhalte und Gestaltungen bleiben erhalten. Chat-Erkennung und Modellumschaltung bleiben erhalten.",
+    "version":  "3.13",
+    "installerUrl":  "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.13/RechenmodellAmpel-Setup-3.13.exe",
+    "sha256":  "e6df4984c3f06bdf055c53a26d57d862734a134434d1cc55de2eaae0da8dd4d7",
+    "releaseNotes":  "PromptChecker 3.13: Kalenderwochen aus dem Kontingentverlauf entfernt; Info-Legende zu Farben, Kurven, Kontingentwochen-Grenzen und Reset-Zeichen ergänzt. Geprüft mit 1.033 .NET-Tests.",
     "mandatory":  false,
-    "publishedAtUtc":  "2026-10-24T10:13:34.8941544+00:00",
+    "publishedAtUtc":  "2026-10-29T10:34:27.7718139+00:00",
     "publisherThumbprint":  ""
 }
