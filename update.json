@@ -1,9 +1,9 @@
 {
-  "version": "3.15",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.15/RechenmodellAmpel-Setup-3.15.exe",
-  "sha256": "76ae5147575551516e91e6fc619fba3ca9661697868ddaf9635171d97ec3398d",
-  "releaseNotes": "PromptChecker 3.15: Die 7-Tage-Kontingentanzeige benennt aktuellen Rest, Tagesstart und Tagesziel eindeutig. Die aktuelle Linie ist dick weiß, die Startlinie blau und das Tagesziel gestrichelt. Die bestehende Modell-Empfehlung berücksichtigt weiterhin Codex-Vorgaben, Gesprächsverlauf und Fehlversuche.",
+  "version": "3.16",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.16/RechenmodellAmpel-Setup-3.16.exe",
+  "sha256": "26553abec0e705acff6354efe46c58e741e20568490c5734c2a90a7ab52a1a46",
+  "releaseNotes": "PromptChecker 3.16: Die 7-Tage-Kontingentanzeige blendet den verwirrenden Startwert aus. Die aktuelle Kontingentzahl steht fett direkt neben der weißen Ist-Linie; das Tagesziel bleibt gestrichelt und eindeutig beschriftet.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-29T20:32:56.1377313+00:00",
+  "publishedAtUtc": "2026-10-29T21:03:07.2067909+00:00",
   "publisherThumbprint": ""
 }
