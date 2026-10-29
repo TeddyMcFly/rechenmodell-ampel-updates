@@ -1,9 +1,9 @@
 {
-  "version": "3.14",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.14/RechenmodellAmpel-Setup-3.14.exe",
-  "sha256": "6e25a5ca8397e9600f89146686adfb851ee6884bc65e71df8a1ef8962df55bf5",
-  "releaseNotes": "PromptChecker 3.14: Codex-Vorgaben, Gesprächsverlauf und wiederholte Fehlversuche werden bei der Modell-Empfehlung berücksichtigt. Vollständige Begründung per Mauszeiger und klickbare Kontingent-Legende. Chat-Erkennung und Modellumschaltung unverändert. Build und 1.047 Tests erfolgreich.",
+  "version": "3.15",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.15/RechenmodellAmpel-Setup-3.15.exe",
+  "sha256": "76ae5147575551516e91e6fc619fba3ca9661697868ddaf9635171d97ec3398d",
+  "releaseNotes": "PromptChecker 3.15: Die 7-Tage-Kontingentanzeige benennt aktuellen Rest, Tagesstart und Tagesziel eindeutig. Die aktuelle Linie ist dick weiß, die Startlinie blau und das Tagesziel gestrichelt. Die bestehende Modell-Empfehlung berücksichtigt weiterhin Codex-Vorgaben, Gesprächsverlauf und Fehlversuche.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-29T19:09:14.8691564+00:00",
+  "publishedAtUtc": "2026-10-29T20:32:56.1377313+00:00",
   "publisherThumbprint": ""
 }
