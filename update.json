@@ -1,9 +1,9 @@
 {
-  "version": "3.16",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.16/RechenmodellAmpel-Setup-3.16.exe",
-  "sha256": "26553abec0e705acff6354efe46c58e741e20568490c5734c2a90a7ab52a1a46",
-  "releaseNotes": "PromptChecker 3.16: Die 7-Tage-Kontingentanzeige blendet den verwirrenden Startwert aus. Die aktuelle Kontingentzahl steht fett direkt neben der weißen Ist-Linie; das Tagesziel bleibt gestrichelt und eindeutig beschriftet.",
+  "version": "3.17",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.17/RechenmodellAmpel-Setup-3.17.exe",
+  "sha256": "3cdd00e6226bae16a4dfd12bb50282be3faa7670990cba460dee6223cf0e2ab9",
+  "releaseNotes": "PromptChecker 3.17: Wiederholte Codex-Chatwechselmeldungen werden korrekt zugeordnet. Unbestätigte Wechsel zeigen „Wechsel wird geprüft“; die Modellübernahme wartet auf die Bestätigung. Empfehlung und alternative Auswahl bleiben erhalten.",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-29T21:03:07.2067909+00:00",
+  "publishedAtUtc": "2026-11-03T07:48:06.3370767+00:00",
   "publisherThumbprint": ""
 }
