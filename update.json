@@ -1,9 +1,9 @@
 {
-  "version": "3.17",
-  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.17/RechenmodellAmpel-Setup-3.17.exe",
-  "sha256": "3cdd00e6226bae16a4dfd12bb50282be3faa7670990cba460dee6223cf0e2ab9",
-  "releaseNotes": "PromptChecker 3.17: Wiederholte Codex-Chatwechselmeldungen werden korrekt zugeordnet. Unbestätigte Wechsel zeigen „Wechsel wird geprüft“; die Modellübernahme wartet auf die Bestätigung. Empfehlung und alternative Auswahl bleiben erhalten.",
+  "version": "3.19",
+  "installerUrl": "https://github.com/TeddyMcFly/rechenmodell-ampel-updates/releases/download/v3.19/RechenmodellAmpel-Setup-3.19.exe",
+  "sha256": "490ec53aa1f3a1cfe760f2adc41e494f7e42d141ae4f0dbb7a1c76717d01e2b6",
+  "releaseNotes": "PromptChecker 3.19: Der Reset-Tag erscheint im Tageskontingent-Tacho und wird bis zur tatsächlichen Reset-Uhrzeit zeitanteilig berücksichtigt. Tagesstart und heutiger Verbrauch bleiben erhalten. Beim Beenden verhindert eine Wartegrenze, dass eine blockierte Windows-Fokusabmeldung das Programm und den nächsten Start aufhält.",
   "mandatory": false,
-  "publishedAtUtc": "2026-11-03T07:48:06.3370767+00:00",
+  "publishedAtUtc": "2026-11-03T13:49:42.1500504+00:00",
   "publisherThumbprint": ""
 }
